@@ -3,11 +3,12 @@ html{
   background-color: black;
   text-align: center;
   color: white;
-  font-weight: lighter;
 }
+
 h1{
   font-size: 50px;
 }
+
 a{
   color: aquamarine;
   font-size: 16px;
